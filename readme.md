@@ -22,3 +22,6 @@ npm i nodemon morgan -D
 9.- Crear un modelo generico de usuario
 10.- Crear el init models
 11.- Sincronizar la DB
+12.- Registrar usuarios --> Creacion de usuarios
+    "1234" --> encriptar contrase;as
+13.- Autenticacion con el login
